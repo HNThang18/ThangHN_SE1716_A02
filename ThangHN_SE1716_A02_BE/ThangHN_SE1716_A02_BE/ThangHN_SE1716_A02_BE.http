@@ -1,0 +1,6 @@
+@ThangHN_SE1716_A02_BE_HostAddress = http://localhost:5017
+
+GET {{ThangHN_SE1716_A02_BE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
